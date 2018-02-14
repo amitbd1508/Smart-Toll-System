@@ -1,0 +1,72 @@
+D:\C#.net\Smart Toll System\Smart Toll System\bin\Debug\Smart Toll System.exe.config
+D:\C#.net\Smart Toll System\Smart Toll System\bin\Debug\Smart Toll System.exe
+D:\C#.net\Smart Toll System\Smart Toll System\bin\Debug\Smart Toll System.pdb
+D:\C#.net\Smart Toll System\Smart Toll System\obj\Debug\Smart Toll System.csprojResolveAssemblyReference.cache
+D:\C#.net\Smart Toll System\Smart Toll System\obj\Debug\Smart_Toll_System.Properties.Resources.resources
+D:\C#.net\Smart Toll System\Smart Toll System\obj\Debug\Smart Toll System.csproj.GenerateResource.Cache
+D:\C#.net\Smart Toll System\Smart Toll System\obj\Debug\Smart Toll System.exe
+D:\C#.net\Smart Toll System\Smart Toll System\obj\Debug\Smart Toll System.pdb
+D:\C#.net\Smart Toll System\Smart Toll System\bin\Debug\WebCam_Capture.dll
+D:\C#.net\Smart Toll System\Smart Toll System\bin\Debug\AForge.Controls.dll
+D:\C#.net\Smart Toll System\Smart Toll System\bin\Debug\AForge.dll
+D:\C#.net\Smart Toll System\Smart Toll System\bin\Debug\AForge.Imaging.dll
+D:\C#.net\Smart Toll System\Smart Toll System\bin\Debug\AForge.Math.dll
+D:\C#.net\Smart Toll System\Smart Toll System\bin\Debug\AForge.Video.DirectShow.dll
+D:\C#.net\Smart Toll System\Smart Toll System\bin\Debug\AForge.Video.dll
+D:\C#.net\Smart Toll System\Smart Toll System\obj\Debug\Smart_Toll_System.MailFrom.resources
+D:\C#.net\Smart Toll System\Smart Toll System\obj\Debug\Smart_Toll_System.AboutUS.resources
+D:\C#.net\Smart Toll System\Smart Toll System\obj\Debug\Smart_Toll_System.Form1.resources
+F:\Study\Work File\C#.net\Smart Toll System\Smart Toll System\bin\Debug\Smart Toll System.exe.config
+F:\Study\Work File\C#.net\Smart Toll System\Smart Toll System\obj\Debug\Smart Toll System.exe
+F:\Study\Work File\C#.net\Smart Toll System\Smart Toll System\obj\Debug\Smart Toll System.pdb
+F:\Study\Work File\C#.net\Smart Toll System\Smart Toll System\bin\Debug\Smart Toll System.exe
+F:\Study\Work File\C#.net\Smart Toll System\Smart Toll System\bin\Debug\Smart Toll System.pdb
+F:\Study\Work File\C#.net\Smart Toll System\Smart Toll System\bin\Debug\AForge.Controls.dll
+F:\Study\Work File\C#.net\Smart Toll System\Smart Toll System\bin\Debug\AForge.dll
+F:\Study\Work File\C#.net\Smart Toll System\Smart Toll System\bin\Debug\AForge.Imaging.dll
+F:\Study\Work File\C#.net\Smart Toll System\Smart Toll System\bin\Debug\AForge.Math.dll
+F:\Study\Work File\C#.net\Smart Toll System\Smart Toll System\bin\Debug\AForge.Video.DirectShow.dll
+F:\Study\Work File\C#.net\Smart Toll System\Smart Toll System\bin\Debug\AForge.Video.dll
+F:\Study\Work File\C#.net\Smart Toll System\Smart Toll System\bin\Debug\WebCam_Capture.dll
+F:\Study\Work File\C#.net\Smart Toll System\Smart Toll System\obj\Debug\Smart Toll System.csprojResolveAssemblyReference.cache
+F:\Study\Work File\C#.net\Smart Toll System\Smart Toll System\obj\Debug\Smart_Toll_System.AboutUS.resources
+F:\Study\Work File\C#.net\Smart Toll System\Smart Toll System\obj\Debug\Smart_Toll_System.Form1.resources
+F:\Study\Work File\C#.net\Smart Toll System\Smart Toll System\obj\Debug\Smart_Toll_System.MailFrom.resources
+F:\Study\Work File\C#.net\Smart Toll System\Smart Toll System\obj\Debug\Smart_Toll_System.Properties.Resources.resources
+F:\Study\Work File\C#.net\Smart Toll System\Smart Toll System\obj\Debug\Smart Toll System.csproj.GenerateResource.Cache
+C:\Users\BlackFlag\Desktop\Smart Toll System\Smart Toll System\bin\Debug\Smart Toll System.exe.config
+C:\Users\BlackFlag\Desktop\Smart Toll System\Smart Toll System\obj\Debug\Smart Toll System.exe
+C:\Users\BlackFlag\Desktop\Smart Toll System\Smart Toll System\obj\Debug\Smart Toll System.pdb
+C:\Users\BlackFlag\Desktop\Smart Toll System\Smart Toll System\bin\Debug\Smart Toll System.exe
+C:\Users\BlackFlag\Desktop\Smart Toll System\Smart Toll System\bin\Debug\Smart Toll System.pdb
+C:\Users\BlackFlag\Desktop\Smart Toll System\Smart Toll System\bin\Debug\AForge.Controls.dll
+C:\Users\BlackFlag\Desktop\Smart Toll System\Smart Toll System\bin\Debug\AForge.dll
+C:\Users\BlackFlag\Desktop\Smart Toll System\Smart Toll System\bin\Debug\AForge.Imaging.dll
+C:\Users\BlackFlag\Desktop\Smart Toll System\Smart Toll System\bin\Debug\AForge.Math.dll
+C:\Users\BlackFlag\Desktop\Smart Toll System\Smart Toll System\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\BlackFlag\Desktop\Smart Toll System\Smart Toll System\bin\Debug\AForge.Video.dll
+C:\Users\BlackFlag\Desktop\Smart Toll System\Smart Toll System\bin\Debug\WebCam_Capture.dll
+C:\Users\BlackFlag\Desktop\Smart Toll System\Smart Toll System\obj\Debug\Smart Toll System.csprojResolveAssemblyReference.cache
+C:\Users\BlackFlag\Desktop\Smart Toll System\Smart Toll System\obj\Debug\Smart_Toll_System.AboutUS.resources
+C:\Users\BlackFlag\Desktop\Smart Toll System\Smart Toll System\obj\Debug\Smart_Toll_System.Form1.resources
+C:\Users\BlackFlag\Desktop\Smart Toll System\Smart Toll System\obj\Debug\Smart_Toll_System.MailFrom.resources
+C:\Users\BlackFlag\Desktop\Smart Toll System\Smart Toll System\obj\Debug\Smart_Toll_System.Properties.Resources.resources
+C:\Users\BlackFlag\Desktop\Smart Toll System\Smart Toll System\obj\Debug\Smart Toll System.csproj.GenerateResource.Cache
+C:\Users\BlackFlag\Dropbox\2016 new C# Code\Smart Toll System\Smart Toll System\bin\Debug\Smart Toll System.exe.config
+C:\Users\BlackFlag\Dropbox\2016 new C# Code\Smart Toll System\Smart Toll System\obj\Debug\Smart Toll System.exe
+C:\Users\BlackFlag\Dropbox\2016 new C# Code\Smart Toll System\Smart Toll System\obj\Debug\Smart Toll System.pdb
+C:\Users\BlackFlag\Dropbox\2016 new C# Code\Smart Toll System\Smart Toll System\bin\Debug\Smart Toll System.exe
+C:\Users\BlackFlag\Dropbox\2016 new C# Code\Smart Toll System\Smart Toll System\bin\Debug\Smart Toll System.pdb
+C:\Users\BlackFlag\Dropbox\2016 new C# Code\Smart Toll System\Smart Toll System\bin\Debug\AForge.Controls.dll
+C:\Users\BlackFlag\Dropbox\2016 new C# Code\Smart Toll System\Smart Toll System\bin\Debug\AForge.dll
+C:\Users\BlackFlag\Dropbox\2016 new C# Code\Smart Toll System\Smart Toll System\bin\Debug\AForge.Imaging.dll
+C:\Users\BlackFlag\Dropbox\2016 new C# Code\Smart Toll System\Smart Toll System\bin\Debug\AForge.Math.dll
+C:\Users\BlackFlag\Dropbox\2016 new C# Code\Smart Toll System\Smart Toll System\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\BlackFlag\Dropbox\2016 new C# Code\Smart Toll System\Smart Toll System\bin\Debug\AForge.Video.dll
+C:\Users\BlackFlag\Dropbox\2016 new C# Code\Smart Toll System\Smart Toll System\bin\Debug\WebCam_Capture.dll
+C:\Users\BlackFlag\Dropbox\2016 new C# Code\Smart Toll System\Smart Toll System\obj\Debug\Smart Toll System.csprojResolveAssemblyReference.cache
+C:\Users\BlackFlag\Dropbox\2016 new C# Code\Smart Toll System\Smart Toll System\obj\Debug\Smart_Toll_System.AboutUS.resources
+C:\Users\BlackFlag\Dropbox\2016 new C# Code\Smart Toll System\Smart Toll System\obj\Debug\Smart_Toll_System.Form1.resources
+C:\Users\BlackFlag\Dropbox\2016 new C# Code\Smart Toll System\Smart Toll System\obj\Debug\Smart_Toll_System.MailFrom.resources
+C:\Users\BlackFlag\Dropbox\2016 new C# Code\Smart Toll System\Smart Toll System\obj\Debug\Smart_Toll_System.Properties.Resources.resources
+C:\Users\BlackFlag\Dropbox\2016 new C# Code\Smart Toll System\Smart Toll System\obj\Debug\Smart Toll System.csproj.GenerateResource.Cache
